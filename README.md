@@ -15,7 +15,7 @@ Integrator allows the programmer to either set the variables one by one and then
 
 This program uses the algorithms that students usually learn in a regular calculus II classroom (plus Romberg's Method).
 
-# Example of the Integrator API
+# Integrator API Example
 1. Get a String (Or build an exp4j expression yourself) and use the buildExpression method.
 
 Expression e = Integrator.buildExpression("3x^2+cosh(x)-sin(x)");
@@ -52,7 +52,7 @@ rectangles: 5
 # CLI Example
 [![LINK TO VIDEO](https://i.ytimg.com/vi/34m-d6_MDw4/hqdefault.jpg)](https://youtu.be/34m-d6_MDw4)
 
-# GUI Examples
+# GUI Example
 [![LINK TO VIDEO](https://i.ytimg.com/vi/AO1Pq1rV828/hqdefault.jpg)](https://youtu.be/AO1Pq1rV828)
 
 And last but not least: Keep in mind I wrote this years ago as a total newbie :) 
