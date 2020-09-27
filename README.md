@@ -1,6 +1,6 @@
 # Integral Estimator (API, CLI, GUI)
 
-This was written right after taking an introduction to programming class when I first got into college (late 2017, early 2018). The class is CS121 and it is taught in python. The class that follows is CS141 and it is taught in Java. I wrote the program right after taking CS121 and before taking CS141 (I made the program in the short break after summer quarter and before fall quarter). 
+This was written right after taking an introduction to programming class when I first got into college. The class is CS121 and it is taught in python. The class that follows is CS141 and it is taught in Java. I wrote the program right after taking CS121 and before taking CS141 (I made the program in the short break after summer quarter and before fall quarter). 
 
 The instructions to use the program are simple: Download the .java files under the src directory, compile and run!
 
